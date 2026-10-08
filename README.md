@@ -1,4 +1,4 @@
-# PaviaU 1D CNN for Hyperspectral Image Classification
+# 1D CNN for Hyperspectral Image Classification
 
 A clean, reproducible implementation of a **1D Convolutional Neural Network (1D CNN)** for pixel-wise classification of the **Pavia University (PaviaU)** hyperspectral dataset.
 
