@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets / large files
+*.mat
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.weights.h5
+
+# Generated outputs
+results/figures/*.png
+results/metrics/*.json
+results/metrics/*.mat
+results/*.mat
+models/*
+!models/.gitkeep
+
+# Logs
+*.log
